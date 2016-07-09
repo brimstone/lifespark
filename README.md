@@ -1,12 +1,12 @@
 lifespark
 =========
+[![Ready](https://badge.waffle.io/shapr/lifespark.svg?label=ready&title=Ready)](http://waffle.io/shapr/lifespark)
+
 personal mood feedback graphing 
 
 "Weather forecast for personal mood."
 
 Get a sparkline of your mood based on daily events.
-
-https://waffle.io/shapr/lifespark for collaboration
 
 Want to track amount of exercise every day.
 Want to track how you feel (good/bad) every day.
