@@ -1,7 +1,7 @@
 {
-  "name": "mobileapp",
-  "version": "1.1.1",
-  "description": "mobileapp: An Ionic project",
+  "name": "lifespark",
+  "version": "0.1.0",
+  "description": "lifespark: An Ionic project",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
